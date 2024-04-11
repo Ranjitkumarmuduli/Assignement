@@ -1,2 +1,2 @@
-# Assignement
+# Assignment
 Python practice work.
